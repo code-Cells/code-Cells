@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @code-Cells
+- 👀 I’m interested in Python automation, data science and machine learning; and Java android/web development.
+- 🌱 I’m currently learning Python GUI and bot automation.
+- 📫 Email: eduardo.g.amaral1997@gmail.com
