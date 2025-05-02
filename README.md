@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @code-Cells
 - 👀 I’m interested in Python automation, data science and machine learning; android/web development and Rust programming.
 - 🌱 I’m currently learning Rust.
-- 📫 Email: eduardo.g.amaral1997@gmail.com
