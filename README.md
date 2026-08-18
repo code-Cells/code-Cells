@@ -1,7 +1,4 @@
-👋 Hi, I’m @code-Cells.
-
-🧪 I’m interested in computational chemistry, molecular simulation, signal processing, and software engineering.
-
-🐍 I primarily work with Python, building tools for molecular modeling, analysis, and numerical optimization.
-
-🌱 Exploring Rust and high-performance scientific computing.
+- 👋 Hi, I’m @code-Cells.
+- 🧪 I’m interested in computational chemistry, molecular simulation, signal processing, and software engineering.
+- 🐍 I primarily work with Python, building tools for molecular modeling, analysis, and numerical optimization.
+- 🌱 Exploring Rust and high-performance scientific computing.
